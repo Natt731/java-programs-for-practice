@@ -5,6 +5,7 @@ public class A22_CalculateCircleArea {
         Scanner scanner = new Scanner(System.in);
 
         // This is a Java program that calculates the area of a circle given its radius.
+
         System.out.printf("Enter the radius of a circle: ");
         int radius = scanner.nextInt();
 
