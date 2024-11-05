@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class A23_CalculateRectangleArea {
     public static void main(String[] args) {

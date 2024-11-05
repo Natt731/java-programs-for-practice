@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class A21_CalculateCirclePerimeter {
     public static void main(String[] args) {
